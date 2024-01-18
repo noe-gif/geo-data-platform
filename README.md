@@ -1,6 +1,6 @@
 <h1 align="center">Geo data dashboard</h1>
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/774360587391860769/1194247145197420694/image.png?ex=65afa853&is=659d3353&hm=8df864a449677ab2995a97f29f0b087580219c26e324f2d8d60406410c577246&" alt="banner"></img>
+<img src="https://cdn.discordapp.com/attachments/774360587391860769/1197545459095437383/image.png" alt="banner"></img>
 </p>
 
 ## Demo
